@@ -1,0 +1,49 @@
+_repo: The-Raven_17192
+_version: 0.1.0
+contributor:
+  commentator:
+    agent_name: Stedman, Edmund Clarence
+    birthdate: 1833
+    deathdate: 1908
+    gutenberg_agent_id: '7210'
+    url: http://www.gutenberg.org/2009/agents/7210
+  illustrator:
+    agent_name: Doré, Gustave
+    aliases:
+    - Doré, Louis Auguste Gustave
+    - Dorè, Gustave
+    - Doré, Louis Christophe Paul Gustave
+    - Dore, Gustave
+    birthdate: 1832
+    deathdate: 1883
+    gutenberg_agent_id: '1896'
+    url: http://www.gutenberg.org/2009/agents/1896
+    wikipedia: http://en.wikipedia.org/wiki/Gustave_Doré
+covers:
+- cover_type: archival
+  image_path: 17192-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: 1849
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+description: 'See also: #14082 illustrated by Édouard Manet'
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '2005-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17192'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Fantasy poetry, American'
+- !lcsh 'Ravens -- Poetry'
+title: The Raven
+url: http://www.gutenberg.org/ebooks/17192
